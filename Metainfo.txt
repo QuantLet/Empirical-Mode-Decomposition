@@ -1,0 +1,11 @@
+Name of Quantlet : 'Decomposing-Stock-Factors'
+
+Published in : 'Decomposing-Stock-Factors
+
+Description : 'Empirical Mode Decomposition'
+
+Keywords : 'Empirical Mode Decomposition, signal processing'
+
+Author : 'Wolfgang Karl Haerdle'
+
+Submitted : '05 March 2025'
