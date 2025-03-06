@@ -6,6 +6,6 @@ Description : 'EMD Example 1'
 
 Keywords : 'Empirical Mode Decomposition'
 
-Author : 'Wolgfang Karl Haerdle'
+Author : 'Wolfgang Karl Haerdle'
 
 Submitted : '05 March 2025'
