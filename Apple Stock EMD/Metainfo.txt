@@ -6,6 +6,6 @@ Description : 'Empirical Mode Decomposition for APPL'
 
 Keywords : 'Empirical Mode Decomposition'
 
-Author : 'Wolfgang Karl Haerdle'
+Author : 'Wolfgang Karl Härdle'
 
 Submitted : '05 March 2025'
