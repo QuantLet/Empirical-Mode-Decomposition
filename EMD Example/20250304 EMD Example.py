@@ -1,4 +1,11 @@
- !pip install EMD-signal
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Apr  5 15:46:54 2025
+
+@author: haerdle
+"""
+#!pip install EMD-signal
 # you might have to do this.
 import numpy as np
 import matplotlib.pyplot as plt
@@ -28,7 +35,7 @@ for ax in axes:
 # Plot the original signal
 axes[0].plot(t, signal,  color='blue', linewidth=3)
 axes[0].legend()
-axes[0].set_title('Original Signal')
+# axes[0].set_title('Original Signal')
 
 # Plot each IMF
 for i, imf in enumerate(IMFs):
