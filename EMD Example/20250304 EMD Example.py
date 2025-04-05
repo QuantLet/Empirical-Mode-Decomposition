@@ -1,11 +1,5 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Mar  4 10:53:05 2025
-
-@author: haerdle, updated by ATG on Wed Mar 5 21:42 2025
-"""
-!pip install EMD-signal
+ !pip install EMD-signal
+# you might have to do this.
 import numpy as np
 import matplotlib.pyplot as plt
 from PyEMD import EMD
@@ -32,13 +26,13 @@ for ax in axes:
     ax.set_facecolor('none')  # Make subplot backgrounds transparent
 
 # Plot the original signal
-axes[0].plot(t, signal, label='Original Signal', color='blue', linewidth=3)
+axes[0].plot(t, signal,  color='blue', linewidth=3)
 axes[0].legend()
 axes[0].set_title('Original Signal')
 
 # Plot each IMF
 for i, imf in enumerate(IMFs):
-    axes[i + 1].plot(t, imf, label=f'IMF {i + 1}', color='orange', linewidth=3)
+    axes[i + 1].plot(t, imf,  color='orange', linewidth=3)
     axes[i + 1].legend()
 
 plt.tight_layout()
