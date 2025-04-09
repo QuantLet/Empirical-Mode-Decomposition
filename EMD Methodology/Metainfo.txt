@@ -1,0 +1,11 @@
+Name of Quantlet : 'EMD Methodology'
+
+Published in : 'Decomposing-Stock-Factors'
+
+Description : 'Empirical Mode Decomposition Methodology - Local Extrema, Cubic Spline Interpolation, IMF 1'
+
+Keywords : 'Empirical Mode Decomposition'
+
+Author : 'Wolfgang Karl Härdle, Andrei Theodor Ginavar'
+
+Submitted : '09 April 2025'
