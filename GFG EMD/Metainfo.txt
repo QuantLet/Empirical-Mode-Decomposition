@@ -1,4 +1,4 @@
-Name of Quantlet : 'IBM EMD'
+Name of Quantlet : 'GFG EMD'
 
 Published in : 'Decomposing-Stock-Factors'
 
