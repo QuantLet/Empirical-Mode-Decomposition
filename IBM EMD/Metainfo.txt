@@ -2,10 +2,10 @@ Name of Quantlet : 'IBM EMD'
 
 Published in : 'Decomposing-Stock-Factors'
 
-Description : 'Empirical Mode Decomposition for APPL'
+Description : 'Empirical Mode Decomposition for Great Falls Gas stock'
 
 Keywords : 'Empirical Mode Decomposition'
 
 Author : 'Wolfgang Karl Härdle, Andrei Theodor Ginavar'
 
-Submitted : '07 April 2025'
+Submitted : '09 April 2025'
