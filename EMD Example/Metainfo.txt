@@ -1,0 +1,11 @@
+Name of Quantlet : 'EMD Example'
+
+Published in : 'Empirical Mode Decomposition'
+
+Description : 'EMD Example 1'
+
+Keywords : 'Empirical Mode Decomposition'
+
+Author : 'Wolfgang Karl Haerdle'
+
+Submitted : '29 August 2025'
